@@ -19,4 +19,4 @@ The requirements.txt is located in code folder
 Python tweet_counterreply_clf.py
 ```
 
-### 3. If you have questions regarding the code and dataset, please contact Bing He (bhe46@gatech) and Yingchen Ma (yma473@gatech.edu).
+### 3. If you have questions regarding the code and dataset, please contact Bing He (bhe46@gatech.edu) and Yingchen Ma (yma473@gatech.edu).
