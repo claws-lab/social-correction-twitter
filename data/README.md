@@ -11,6 +11,7 @@
 * to determine if a reply is countering reply or non-countering reply, please refer to the column if_counterreply where 1 means countering and 0 indicates non-countering
 * to determine if a reply is explicitly countering or implicitly countering, please refer to the column if_explicitly_counter where 1 means explicitly countering, 0 means implicitly countering and -1 means non-countering
 * when creating the counter-reply classifier in Section 3.3.2, we use the column if_counterreply to build a binary classifier.
+* if you only want to collect the pairs of (misinformation tweets, explicit counter-misinformation replies), please also check our another [paper](https://github.com/claws-lab/MisinfoCorrect).
 
 # The Whole Twitter Dataset
 
