@@ -1,6 +1,8 @@
 # Characterizing and Predicting Social Correction on Twitter
 This repository contains data and code for our ACM Web Science 2023 publication regarding social correction on Twitter. 
 
+The PDF can be accessed here: [PDF](https://faculty.cc.gatech.edu/~srijan/pubs/ma-websci23-social-correction.pdf)
+
 If our code or data helps you in your research, please cite:
 
 ```
