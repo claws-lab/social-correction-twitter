@@ -1,7 +1,7 @@
 
 # Dataset
 
-1. To download the dataset, please use this [link](https://sites.google.com/view/websci2023-social-correction/home).
+1. To download the dataset, please use this [link](https://www.dropbox.com/sh/97zqw84ae5tej7t/AAB49_iNqEJGC0sjXEb8WiqLa?dl=0).
 2. We notice the change of Twitter API. If you do not have access to the Twitter data, we can share the whole data with you properly. Please contact Bing He (bhe46@gatech.edu)
 
 
