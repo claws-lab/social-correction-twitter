@@ -40,7 +40,7 @@ Python tweet_counterreply_clf.py
 ### 1. Please refer to README.md in the data folder
 
 
-## If you have questions regarding the code and dataset, please contact Bing He (bhe46@gatech.edu) and Yingchen Ma (yma473@gatech.edu).
+We notice the change of Twitter API. If you have problems regarding the access to the whole dataset or the code, please contact Bing He (bhe46@gatech.edu) and Yingchen Ma (yma473@gatech.edu).
 
 
 
